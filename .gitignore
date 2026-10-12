@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local Claude Code tool permissions, not project configuration.
+.claude/settings.local.json
